@@ -1,0 +1,69 @@
+{
+    "name": "LambdaLabs Face",
+    "description": "High-powered machines built specifically for Deep Learning applications. Pre-built and configured with Deep Learning software like Theano, Torch, and CUDA.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1438-lambdalabs-face.jpg",
+    "tags": [
+        "api service provider",
+        "detection",
+        "face",
+        "have api",
+        "javascript",
+        "photos",
+        "recognition"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/lambdalabs-face\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "LambdaLabs Face",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1438-lambdalabs-face.jpg",
+            "humanURL": "http:\/\/api.lambdal.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/lambdalabs-face-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/lambdal\/"
+        },
+        {
+            "type": "Press",
+            "url": "http:\/\/api.lambdal.com\/press"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/api.lambdal.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/lambda-labs"
+        },
+        {
+            "type": "Email",
+            "url": "enterprise@lambdal.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@lambdal.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@lambdal.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/LambdaAPI"
+        }
+    ]
+}
